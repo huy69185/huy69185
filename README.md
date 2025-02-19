@@ -33,12 +33,12 @@
 
 ### 🏗 Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,azure,aws,sqlserver,postgres,mysql,redis,rabbitmq,docker" />
+  <img src="https://skillicons.dev/icons?i=dotnet,azure,sqlserver,postgres,mysql,redis,rabbitmq,docker" />
 </p>
 
 ### 🏗 DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,nginx" />
 </p>
 
 ### 📜 Other Tools
