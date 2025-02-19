@@ -17,7 +17,7 @@
   <a href="https://www.facebook.com/profile.php?id=100092395280897">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="https://huy69185.github.io">
+  <a href="[https://huy69185.github.io](https://github.com/huy69185)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
