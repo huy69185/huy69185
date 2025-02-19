@@ -33,7 +33,9 @@
 
 ### 🏗 Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,azure,sqlserver,postgres,mysql,redis,rabbitmq,docker" />
+ <img src="https://skillicons.dev/icons?i=dotnet,azure,postgres,mysql,redis,rabbitmq,docker" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 
 ### 🏗 DevOps & Cloud
