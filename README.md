@@ -28,7 +28,7 @@
 
 ### 🏗 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,py,ts,js" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,ts,js" />
 </p>
 
 ### 🏗 Backend Development
